@@ -1,7 +1,7 @@
 ---
 date: '2017-06-22'
 title: 'Lonely Planet DBMS'
-github: 'https://github.com/bchiang7/CS3200-Project'
+github: 'https://github.com/salekin02/CS3200-Project'
 external: ''
 tech:
   - Python
