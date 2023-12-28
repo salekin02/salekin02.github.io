@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/nahidsalekin',
+      url: 'https://www.linkedin.com/in/salekin02',
     },
     {
       name: 'Facebook',
