@@ -3,7 +3,7 @@ date: '2'
 title: 'Class Schedule Maker'
 cover: './schedule.jpg'
 github: 'https://github.com/salekin02/schedule-maker'
-# external: 'https://spotify-profile.herokuapp.com/'
+external: 'http://getroutine.epizy.com'
 tech:
   - PHP
   - JavaScript

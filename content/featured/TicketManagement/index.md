@@ -3,7 +3,7 @@ date: '1'
 title: 'Train Ticket Management System'
 cover: './metrorail.jpg'
 github: 'https://github.com/salekin02/metro-rail-ticket-management'
-# external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'http://nahidevil.pythonanywhere.com/'
 cta: '#'
 tech:
   - React

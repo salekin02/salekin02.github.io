@@ -66,7 +66,7 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer specializing in building exceptional
-        digital experiences. Currently, I’m focused on AI based products
+        digital experiences. Currently, I’m focused on AI based and Saas products
         at{' '}
         <a href="https://xpeedstudio.com/" target="_blank" rel="noreferrer">
           XpeedStudio
