@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://salekin02.github.io/sitemap-index.xml
-Host: https://salekin02.github.io
