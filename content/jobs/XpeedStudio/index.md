@@ -1,9 +1,9 @@
 ---
 date: '2022-01-01'
-title: 'Lead Developer'
+title: 'Software Engineer'
 company: 'XpeedStudio'
 location: 'Dhaka, Bangladesh'
-range: 'January 2022 - Present'
+range: 'January 2022 - December 2024'
 url: 'https://www.xpeedstudio.com/'
 ---
 

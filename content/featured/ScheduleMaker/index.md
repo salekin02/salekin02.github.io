@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '6'
 title: 'Class Schedule Maker'
 cover: './schedule.jpg'
 github: 'https://github.com/salekin02/schedule-maker'

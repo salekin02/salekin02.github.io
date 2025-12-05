@@ -68,8 +68,8 @@ const Hero = () => {
         I’m a software engineer specializing in building exceptional
         digital experiences. Currently, I’m focused on AI based and Saas products
         at{' '}
-        <a href="https://xpeedstudio.com/" target="_blank" rel="noreferrer">
-          XpeedStudio
+        <a href="https://roxnor.com/" target="_blank" rel="noreferrer">
+          Roxnor
         </a>
         .
       </p>

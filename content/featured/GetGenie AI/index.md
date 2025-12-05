@@ -1,5 +1,5 @@
 ---
-date: '-1'
+date: '3'
 title: 'GetGenie AI'
 cover: './getgenie.png'
 external: 'https://getgenie.ai/'
